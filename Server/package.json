@@ -1,0 +1,22 @@
+{
+  "name": "assesment-no-895",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.1",
+    "mongodb": "^6.5.0",
+    "mongoose": "^8.2.3",
+    "playwright": "^1.42.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
